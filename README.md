@@ -84,6 +84,7 @@ Antes de começar, você precisa ter instalado em sua máquina:
 ```
 
 📌 O projeto será aberto no navegador no endereço: `http://localhost:3000`. Este é o resultado esperado:
+
 ![Print-screen da tela da aplicação MyBook em um Navegador Chrome.](image.png)
 
 ---
